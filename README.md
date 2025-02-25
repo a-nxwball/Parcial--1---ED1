@@ -70,3 +70,11 @@ Cada uno de estos problemas se resuelve utilizando las estructuras de datos adec
 
 15. **Sistema de entrega de pedidos (Problema 15):**
     - Se resuelve utilizando una **cola de prioridad** para gestionar los pedidos, donde los pedidos urgentes tienen mayor prioridad que los normales.
+
+## Requisitos
+
+Este proyecto está escrito en Python y no requiere librerías externas, excepto el módulo estándar de Python para estructuras como heapq.
+
+## Contribuciones
+
+Si deseas contribuir a mejorar las soluciones o agregar más problemas, siéntete libre de hacer un pull request.
